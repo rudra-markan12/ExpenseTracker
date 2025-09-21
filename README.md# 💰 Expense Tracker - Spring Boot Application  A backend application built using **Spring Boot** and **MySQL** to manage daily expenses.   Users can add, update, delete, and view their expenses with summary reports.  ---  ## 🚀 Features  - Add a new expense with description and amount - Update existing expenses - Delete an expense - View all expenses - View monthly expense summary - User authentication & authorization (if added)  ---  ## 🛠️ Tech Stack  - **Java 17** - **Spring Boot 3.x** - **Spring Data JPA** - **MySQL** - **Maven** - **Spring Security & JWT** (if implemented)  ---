@@ -1,0 +1,28 @@
+# 💰 Expense Tracker - Spring Boot Application
+
+A backend application built using **Spring Boot** and **MySQL** to manage daily expenses.  
+Users can add, update, delete, and view their expenses with summary reports.
+
+---
+
+## 🚀 Features
+
+- Add a new expense with description and amount
+- Update existing expenses
+- Delete an expense
+- View all expenses
+- View monthly expense summary
+- User authentication & authorization (if added)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Java 17**
+- **Spring Boot 3.x**
+- **Spring Data JPA**
+- **MySQL**
+- **Maven**
+- **Spring Security & JWT** (if implemented)
+
+---
